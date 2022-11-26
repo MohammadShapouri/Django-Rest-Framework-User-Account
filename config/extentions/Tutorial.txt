@@ -1,0 +1,5 @@
+1. Add     'extentions',    in     INSTALLED_APPS     in your project's     settings.py     file.
+
+2. Add     from extentions.utils import jalali_converter     in your .py file.
+
+3. Use     jalali_converter()     in your code to get jalali date. you must put your date inside method's parentheses.
